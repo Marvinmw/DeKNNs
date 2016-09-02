@@ -1,0 +1,12 @@
+%command line
+cd ./spam/SpamWithHyrec/src
+
+javac ./HyRec/KNNOffline.java
+java HyRec. KNNOffline
+
+%command line
+cd ./spam/SpamWithItem/src
+
+javac ./item/KNNOffline.java
+java item.KNNOffline
+

@@ -1,0 +1,14 @@
+updateprofiletime 25
+choosecandidatetime 7981
+amountcandidate 80000
+similartime 43.605 2.015768249475047E-6
+amountsimilar 21631951
+updateKNNtime 2263
+updateKNN 80000
+clustertime 0
+cluternumber 0
+total time 0.9340166666666666 7.005125E-4
+start true KNN
+finish reading records in total  80000
+trueKNN 
+recall 0.8937433722163285  25  

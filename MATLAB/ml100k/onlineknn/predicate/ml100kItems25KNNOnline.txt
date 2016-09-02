@@ -1,0 +1,9 @@
+similartime 0.4683333333333333 min  2.958480827464978E-6 sec  
+updateKNNtime 0.019966666666666667 min  
+total time 0.58385 min  4.378875E-4 sec
+Client time 3.787125E-4 sec  
+avg candidates 118.726475
+start true KNN
+finish reading records in total  80000
+trueKNN 
+recall 0.8332131495227979  25  

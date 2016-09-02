@@ -1,0 +1,10 @@
+candidatetime 61360.0
+ctnumber 302000.0
+similartime 459.251 5.970896774867271E-6
+similarnumber 7.6914912E7
+updatetime 9297.0
+updatenumber 302000.0
+updateclustertime 0.0
+updteclusternumber 0.0
+total time  9.153566666666666 min 
+recall 0.8983046357616419  25  

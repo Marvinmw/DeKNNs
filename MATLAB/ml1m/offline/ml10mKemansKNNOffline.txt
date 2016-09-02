@@ -1,0 +1,6 @@
+similartime 4.595766666666667 min 7.378121234712183E-6 sec  
+updatetime 0.10045 min 
+updateclustertime 0.5821666666666667 min 
+total time  6.9084 8290 millions
+avg candidates 123.75321523178808
+recall 0.9097615894040197  25  

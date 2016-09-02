@@ -1,0 +1,4 @@
+similartime 0.046483333333333335 min in total3.690449001541017E-7 sec  per one time
+total time  0.13608333333333333 272 mills per one iteration
+avg candidates 112.060290628707
+recall 0.9963701067615676  25  

@@ -1,0 +1,31 @@
+names=char('15','25','35','45','55','65','75','85','95','105');
+
+for n=1:10
+filename=strcat('./ml100kHyrcandidatesize','.txt',names(n,:));
+delimiterIn=' ';
+A1(:,n)=importdata(filename,delimiterIn);
+
+filename=strcat('./ml100kItemscandidatesize','.txt',names(n,:));
+delimiterIn=' ';
+A2(:,n)=importdata(filename,delimiterIn);
+
+filename=strcat('./ml100kKemanscandidatesize','.txt',names(n,:));
+delimiterIn=' ';
+A3(:,n)=importdata(filename,delimiterIn);
+end
+
+
+B1=A1(80000:end,:);
+B2=A2(8000:end,:);
+B3=A3(8000:end,:);
+[M,N]=size(B1)
+D=randperm(M,50);
+S1=B1(D,:);
+S2=B2(D,:);
+S3=B3(D,:);
+
+figure
+grid on;
+x=15:10:105
+for n=1:10
+end

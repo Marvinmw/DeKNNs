@@ -1,0 +1,23 @@
+%command line
+cd ./Semesterproject0.7_Item/src
+javac ./item/KNN.java
+java item.KNN
+
+javac ./item/KNNOffline.java
+java item.KNN
+
+%command line
+cd ./Semesterproject0.7_kmeans/src
+javac ./KMeans/KNN.java
+java KMeans.KNN
+
+javac ./KMeans/KNNOffline.java
+java KMeans.KNN
+
+%command line
+cd ./Semesterproject0HyRec/src
+javac ./HyRec/KNN.java
+java HyRec.KNN
+
+javac ./HyRec/KNNOffline.java
+java HyRec.KNN

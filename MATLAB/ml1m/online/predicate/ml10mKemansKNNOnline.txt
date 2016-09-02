@@ -1,0 +1,9 @@
+similartime 14.53225 min  7.815895198529483E-6 sec  
+updateKNNtime 0.26056666666666667 min  
+clustertime 1.3285666666666667 min  
+total time 19.32525 min in total 0.0014490894412173445 sec per each reocord
+Client time 0.0011320310234850682 sec  per each client
+avg candidates 139.41971935893463
+start true KNN
+trueKNN 
+recall 0.6802384105960393  25  
